@@ -67,7 +67,7 @@ To create an funny game with React, Redux and Firebase Database
 ## Links
 
 <hr>
-<b>Check The Live Website ➡️</b> <a href="">Live Website</a>
+<b>Check The Live Website ➡️</b> <a href="https://click-game-mu.vercel.app/">Live Website</a>
 <hr>
 
 ### Built with
